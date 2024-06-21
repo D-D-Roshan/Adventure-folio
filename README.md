@@ -5,6 +5,8 @@ Welcome to my Text Adventure Portfolio! This project showcases a series of inter
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
+- [Live Demo](live-demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Gameplay](#gameplay)
@@ -22,6 +24,9 @@ This portfolio contains several text adventure games that I have created to expl
 <img align="center" height="100" width="100" src="https://skillicons.dev/icons?i=js"/>
 <img align="center" height="100" width="100" src="https://skillicons.dev/icons?i=vscode"/>
 </div>
+
+## Live Demo
+You can play the text adventures directly in your browser by visiting the https://adventure-folio.netlify.app/.
 
 ## Features
 
