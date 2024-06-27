@@ -26,7 +26,7 @@ This portfolio contains several text adventure games that I have created to expl
 </div>
 
 ## Live Demo
-You can play the text adventures directly in your browser by visiting the https://adventure-folio.netlify.app/.
+You can play the text adventures directly in your browser by visiting the Live demo{https://adventure-folio.netlify.app/}
 
 ## Features
 
